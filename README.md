@@ -11,20 +11,25 @@ El juego se basa en un sistema de gestión de recursos (energía) y exploración
 * **Victoria:** Completa todas las tareas para ganar de forma normal. 
 
 ## Tecnologías Utilizadas
-[cite_start]Cumpliendo con la libertad de stack tecnológico[cite: 18]:
 * **Lenguaje:** Python 3.
-* **Librerías:** `os` y `time` (Nativas del lenguaje, no requiere instalaciones adicionales).
-* **Interfaz:** Consola/Terminal de comandos con renderizado de arte ASCII personalizado.
+* **Librerías:** `os` y `time` (nativas del lenguaje, no requieren instalaciones adicionales).
+* **Interfaz:** Consola/Terminal de comandos con renderizado de arte ASCII.
+* **Empaquetado:** Ejecutable compilado con PyInstaller.
 
 ## Instrucciones de Instalación y Ejecución
-[cite_start]Para probar la aplicación en tu máquina local[cite: 26]:
-1. [cite_start]Clona o descarga los archivos de este repositorio público[cite: 23].
+
+**Opción 1: Jugar directamente con el Ejecutable (.exe)**
+1. Descarga el archivo `juego_hogar.exe` desde la sección de "Releases" de este repositorio (o desde el enlace proporcionado en la entrega).
+2. Haz doble clic sobre el archivo para jugar directamente sin necesidad de instalar nada.
+
+**Opción 2: Ejecutar el Código Fuente**
+1. Clona o descarga los archivos de este repositorio.
 2. Asegúrate de tener Python 3 instalado en tu sistema.
 3. Abre una terminal o consola de comandos en la carpeta del proyecto.
-4. Ejecuta el juego usando el comando: `python juego_hogar.py` (o `python3 juego_hogar.py` dependiendo de tu sistema operativo).
+4. Ejecuta el juego usando el comando: `python juego_hogar.py` (o `python3 juego_hogar.py`).
 
 ## Licencia y Autoría
-[cite_start]El proyecto es de código abierto (Open Source) y se distribuye bajo la licencia **MIT**[cite: 19]. 
+El proyecto es de código abierto (Open Source) y se distribuye bajo la licencia **MIT**. 
 
 ---
 
