@@ -29,7 +29,7 @@ El juego se basa en un sistema de gestión de recursos (energía) y exploración
 4. Ejecuta el juego usando el comando: `python juego_hogar.py` (o `python3 juego_hogar.py`).
 
 ## Licencia y Autoría
-El proyecto es de código abierto (Open Source) y se distribuye bajo la licencia **MIT**. 
+El proyecto es de código abierto (Open Source) y se distribuye bajo la licencia **CC0**. 
 
 ---
 
